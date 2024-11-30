@@ -9,7 +9,7 @@
     ```
 2. Navigate to the project directory:
     ```bash
-    cd TODO LIST
+    cd ToDoListApplication
     ```
 3. Install the dependencies:
     ```bash
